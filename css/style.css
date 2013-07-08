@@ -1,13 +1,13 @@
 /**
  * This is a stylesheet for a demo presentation for impress.js
- * 
+ *
  * It is not meant to be a part of impress.js and is not required by impress.js.
  * I expect that anyone creating a presentation for impress.js would create their own
  * set of styles.
  */
 
 
-/* http://meyerweb.com/eric/tools/css/reset/ 
+/* http://meyerweb.com/eric/tools/css/reset/
    v2.0 | 20110126
    License: none (public domain)
 */
@@ -64,8 +64,8 @@ body {
 
     min-height: 740px;
 
-    background: #A0002B;
-    background: -webkit-gradient(radial, 50% 50%, 0, 50% 50%, 500, from(#A0002B), to(#9A0028));
+    background: #36454F;
+    /*background: -webkit-gradient(radial, 50% 50%, 0, 50% 50%, 500, from(#A0002B), to(#9A0028));
     background: -webkit-radial-gradient(#A0002B, #9A0028);
     background:    -moz-radial-gradient(#A0002B, #9A0028);
     background:      -o-radial-gradient(#A0002B, #9A0028);
@@ -552,4 +552,14 @@ body     { pointer-events: none; }
     font-weight: bold;
 }
 
+p {
+  color: #FF7F00;
+}
 
+#scottlikedkessa {
+  font-family: 'Aldrich', sans-serif;
+}
+
+#kessalikedscott {
+  font-family: 'Grand Hotel', cursive;
+}
