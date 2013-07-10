@@ -552,7 +552,7 @@ body     { pointer-events: none; }
     font-weight: bold;
 }
 
-p {
+p, li {
   color: #FF7F00;
 }
 
