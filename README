@@ -1,3 +1,13 @@
-welcome to Allen and Leona's Wedding.
-we will marry on 2012-5-27 in Hangzhou.
-this is our wedding invitation, it's base on jquery and impress.js, thank you.
+# Scott & Kessa's Wedding Website
+Instead of sending a ton of paper we decided to just use a website. The Internet is highly useful for getting married.
+
+## How to view
+It's HTML... just open [index.html](index.html) in a browser. Have fun.
+
+## How to contribute
+Don't, this isn't for contributions, but copy it in good health!
+
+## License
+
+* Code: MIT
+* Content: CC-BY-NC
