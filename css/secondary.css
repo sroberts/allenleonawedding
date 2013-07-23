@@ -18,7 +18,12 @@ body {
 
 h1 {
   font-size: 100px;
-  font-family: 'Sarina', cursive;
+  font-family: 'Sonsie One', cursive;
+}
+
+h2 {
+  font-size: 60px;
+  font-family: 'Josefin Sans', cursive;
 }
 
 a {
@@ -42,9 +47,9 @@ a:hover {
 }
 
 p, li {
-  font-size: 48px;
+  font-size: 35px;
   line-height: 1.5;
-  font-family: 'Josefin Sans', sans-serif;
+  font-family: 'Maven Pro', sans-serif;
 }
 
 img {
@@ -67,6 +72,11 @@ img {
 /* Invite */
 
 /* Registry */
+#target {
+  padding: 3px;
+  background: white;
+  border:5px solid #000000;
+}
 
 /* RSVP */
 
