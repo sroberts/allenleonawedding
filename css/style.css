@@ -541,12 +541,6 @@ body     { pointer-events: none; }
     display: block;
 }
 
-.step #customer{
-    font-family: "幼圆";
-    color: #f5d49f;
-    font-weight: bold;
-}
-
 p, li {
   color: #FF7F00;
 }
