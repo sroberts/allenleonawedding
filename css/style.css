@@ -543,6 +543,7 @@ body     { pointer-events: none; }
 
 p, li {
   color: #FF7F00;
+  text-shadow: 2px 2px #000000;
 }
 
 #s-and-k {
