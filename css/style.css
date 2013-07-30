@@ -516,3 +516,8 @@ p, li {
 #all-the-deets{
   font-family: 'Cantora One', sans-serif;
 }
+
+#super-small {
+  font-family: 'Sofadi One', sans-serif;
+  font-size: medium;
+}
