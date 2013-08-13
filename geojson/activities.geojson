@@ -1,0 +1,166 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.6427279,
+          40.2981031
+        ]
+      },
+      "properties": {
+        "marker-symbol": "bar",
+        "name": "Tröegs Brewing Company",
+        "address": "200 Hersheypark Dr  Hershey, PA 17033"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.654132604599,
+          40.29187573982368
+        ]
+      },
+      "properties": {
+        "marker-symbol": "rocket",
+        "name": "Hershey Park",
+        "address": "100 W Hersheypark Dr, Hershey, PA 17033",
+        "website":"www.hersheypark.com/‎"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.66109561920166,
+          40.288111212396956
+        ]
+      },
+      "properties": {
+        "marker-symbol": "cafe",
+        "name": "Chocolate World",
+        "address": "251 Park Blvd, Hershey, PA 17033",
+        "website": "www.hersheys.com/chocolateworld/‎"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.6596371,
+          40.2997872
+        ]
+      },
+      "properties": {
+        "marker-symbol": "garden",
+        "name": "The Spa at the Hotel Hershey",
+        "address": "100 Hotel Rd, Hershey, PA 17033",
+        "website": "www.chocolatespa.com/‎"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.223423,
+          40.02699
+        ]
+      },
+      "properties": {
+        "marker-symbol": "farm",
+        "name": "Amish Country: Mennonite Information Center",
+        "address": "2209 Millstream Road, Lancaster, PA 17602",
+        "website": "http://www.mennoniteinfoctr.com/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.64796419999999,
+          40.2953555
+        ]
+      },
+      "properties": {
+        "marker-symbol": "cafe",
+        "name": "Outlets At Hershey",
+        "address": "46 Outlet Square Hershey, PA 17033",
+        "website": "www.tangeroutlet.com/hershey/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.6225789,
+          40.2358775
+        ]
+      },
+      "properties": {
+        "marker-symbol": "rocket",
+        "name": "Adventure Sports",
+        "address": "3010 Elizabethtown Rd, Hershey, PA 17033",
+        "website": "www.adventurehershey.com/‎"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.6901127,
+          40.2989768
+        ]
+      },
+      "properties": {
+        "marker-symbol": "museum",
+        "name": "Antique Auto Musuem",
+        "address": "161 Museum Dr, Hershey, PA 17033",
+        "website": "www.aacamuseum.org/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.6522901,
+          40.2849152
+        ]
+      },
+      "properties": {
+        "marker-symbol": "museum",
+        "name": "The Hershey Story",
+        "address": "63 W Chocolate Ave, Hershey, PA 17033",
+        "website": "www.hersheystory.org/‎"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.8584028,
+          40.2721716
+        ]
+      },
+      "properties": {
+        "marker-symbol": "museum",
+        "name": "Civil War Museum",
+        "address": "Reservoir Park, 100 Concert Dr, Harrisburg, PA 17103",
+        "website": "www.nationalcivilwarmuseum.org/‎"
+      }
+    }
+  ]
+}
+
+  
