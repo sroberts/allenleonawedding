@@ -1,0 +1,79 @@
+
+The Spa at the Hotel Hershey
+Foo Golf Course
+Amish Country
+Outlets At Hershey
+Adventrue Sports
+Antique Auto Musuem
+The Hershey Story
+Civil War Museum
+
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.6427279,
+          40.2981031
+        ]
+      },
+      "properties": {
+        "marker-symbol": "bar",
+        "name": "Tröegs Brewing Company",
+        "address": "200 Hersheypark Dr  Hershey, PA 17033"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.654132604599,
+          40.29187573982368
+        ]
+      },
+      "properties": {
+        "marker-symbol": "rocket",
+        "name": "Hershey Park",
+        "address": "100 W Hersheypark Dr, Hershey, PA 17033",
+        "website":"www.hersheypark.com/‎"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.66109561920166,
+          40.288111212396956
+        ]
+      },
+      "properties": {
+        "marker-symbol": "cafe",
+        "name": "Chocolate World",
+        "address": "251 Park Blvd, Hershey, PA 17033",
+        "website": "www.hersheys.com/chocolateworld/‎"
+      }
+    }
+  ]
+}
+
+{
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0,
+          0
+        ]
+      },
+      "properties": {
+        "marker-symbol": "cafe",
+        "name": "Chocolate World",
+        "address": "",
+        "website": ""
+      }
+    }
