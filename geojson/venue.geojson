@@ -1,0 +1,91 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.3068041,
+          40.0389868
+        ]
+      },
+      "properties": {
+        "marker-symbol": "museum",
+        "name": "The Trust Performing Arts Center",
+        "address": "37 N Market St, Lancaster, PA",
+        "website": "www.lancastertrust.com/‎‎"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": "parking",
+        "name": "Hager Parking Lots",
+        "address": "40 N Market St Lancaster, PA 17603"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -76.3078835606575,
+              40.03852366999386
+            ],
+            [
+              -76.30695283412933,
+              40.038636614139925
+            ],
+            [
+              -76.3070011138916,
+              40.03889330468521
+            ],
+            [
+              -76.3079184293747,
+              40.0387762539164
+            ],
+            [
+              -76.3078835606575,
+              40.03852366999386
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": "parking-garage",
+        "name": "Lancaster Parking Authority",
+        "address": "111 N Prince St Lancaster, PA 17603"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -76.30692064762115,
+              40.04007201526267
+            ],
+            [
+              -76.30679190158844,
+              40.0395093580514
+            ],
+            [
+              -76.3080096244812,
+              40.03936971977622
+            ],
+            [
+              -76.30813837051392,
+              40.04000630371102
+            ],
+            [
+              -76.30692064762115,
+              40.04007201526267
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}
